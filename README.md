@@ -23,4 +23,4 @@
 
 - 10: Create the regression model using ols() from the statsmodel package
 - 11: Print the model Summary
-## Follow Altitude_mortality.ipynb file for a step by step procedure and outputs
+## Follow the "Altitude_mortality.ipynb" file for a step by step procedure and outputs

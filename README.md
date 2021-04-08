@@ -1,5 +1,5 @@
 # latitude_mortality_pandas
-##exercise content
+## exercise content
 - 1: Load the data and print the column names
 
 - 2: Generate descriptive statistics for the data
